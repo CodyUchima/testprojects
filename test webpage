@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI-Powered Financial Firm</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        #header {
+            background-color: #003366;
+            color: #ffffff;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+
+        #cta-button {
+            background-color: #ff6600;
+            color: #ffffff;
+            padding: 12px 24px;
+            font-size: 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+        }
+
+        #cta-button:hover {
+            background-color: #cc5500;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>AI-Powered Financial Firm</h1>
+        <p>Bringing AI-driven financial solutions to underserved populations</p>
+    </div>
+    <div id="content">
+        <h2>Welcome to Our Innovative Financial Firm</h2>
+        <p>We are committed to helping you save money and learn how to invest wisely using the power of AI.</p>
+        <p>Our cutting-edge technology analyzes market trends, offers personalized recommendations, and provides educational resources to empower you in making informed financial decisions.</p>
+        <p>Start your journey to financial success today!</p>
+        <a id="cta-button" href="https://example.com">Get Started</a>
+    </div>
+</body>
+</html>
